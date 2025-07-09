@@ -243,13 +243,14 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
+  nio4r (~> 2.7.4)
   puma (= 5.0)
   rails (~> 7.0.2, >= 7.0.2.2)
   redis (~> 4.0)
   rubyzip (>= 1.2.1)
   selenium-webdriver
   sprockets-rails
-  sqlite3 (~> 1.4)
+  sqlite3 (~> 1.7.3)
   stimulus-rails
   turbo-rails
   tzinfo-data
